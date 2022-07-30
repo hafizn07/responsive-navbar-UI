@@ -12,4 +12,4 @@
 
 
 
-![preview img](/Mockup%20Preview.jpg)
+![preview img](/assets/images/preview.png)
